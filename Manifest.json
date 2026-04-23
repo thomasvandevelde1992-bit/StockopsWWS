@@ -1,0 +1,15 @@
+{
+
+  "name": "StockOps",
+
+  "short_name": "StockOps",
+
+  "start_url": ".",
+
+  "display": "standalone",
+
+  "background_color": "#F2F5EF",
+
+  "theme_color": "#5C7A4E"
+
+}
